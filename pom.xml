@@ -10,9 +10,9 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.technardiot</groupId>
-	<artifactId>SpringBoot-DataJpaRestMysqlVuejs</artifactId>
+	<artifactId>SpringBoot-DataJPA-MySQL-REST</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SpringBoot-DataJpaRestMysqlVuejs</name>
+	<name>SpringBoot-DataJPA-MySQL-REST</name>
 	<description>RND project for Spring Boot</description>
 
 	<properties>
